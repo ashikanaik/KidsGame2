@@ -1,0 +1,376 @@
+fileFormatVersion: 2
+guid: 39e7d52137d36a74a980e5bbfc76c5f6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9166663232806643616
+    second: elephant and girraffe1_0
+  - first:
+      213: 5353255302678089893
+    second: elephant and girraffe1_1
+  - first:
+      213: 1727459734590729649
+    second: elephant and girraffe1_2
+  - first:
+      213: 3771743266382860979
+    second: elephant and girraffe1_3
+  - first:
+      213: 459734812107536352
+    second: elephant and girraffe1_4
+  - first:
+      213: -3772050695760593907
+    second: elephant and girraffe1_5
+  - first:
+      213: -4947260349469007178
+    second: elephant and girraffe1_6
+  - first:
+      213: -2913172801831437755
+    second: elephant and girraffe1_7
+  - first:
+      213: -5547137531282861876
+    second: elephant and girraffe1_8
+  - first:
+      213: 6275417178313735661
+    second: elephant and girraffe1_9
+  - first:
+      213: -8776630597606228930
+    second: elephant and girraffe1_10
+  - first:
+      213: -8462928761224569146
+    second: elephant and girraffe1_11
+  - first:
+      213: 3489647564136200862
+    second: elephant and girraffe1_12
+  - first:
+      213: -4261509149326762031
+    second: elephant and girraffe1_13
+  - first:
+      213: 936496527619946725
+    second: elephant and girraffe1_14
+  - first:
+      213: 2866918486330457034
+    second: elephant and girraffe1_15
+  - first:
+      213: 2053556924912378833
+    second: elephant and girraffe1_16
+  - first:
+      213: -5122205485692007957
+    second: elephant and girraffe1_17
+  - first:
+      213: 845936265418365332
+    second: elephant and girraffe1_18
+  - first:
+      213: -6309075223004715757
+    second: elephant and girraffe1_19
+  - first:
+      213: 7379095082526772530
+    second: elephant and girraffe1_20
+  - first:
+      213: -959682253701437382
+    second: elephant and girraffe1_21
+  - first:
+      213: 2884585393754638900
+    second: elephant and girraffe1_22
+  - first:
+      213: 6042963034079289444
+    second: elephant and girraffe1_23
+  - first:
+      213: 5929859892439007825
+    second: elephant and girraffe1_24
+  - first:
+      213: -8918363520304278495
+    second: elephant and girraffe1_25
+  - first:
+      213: -3351440830741033507
+    second: elephant and girraffe1_26
+  - first:
+      213: -7164003733653817758
+    second: elephant and girraffe1_27
+  - first:
+      213: 1507331934885237569
+    second: elephant and girraffe1_28
+  - first:
+      213: 3022495117119843424
+    second: elephant and girraffe1_29
+  - first:
+      213: 266827806993451245
+    second: elephant and girraffe1_30
+  - first:
+      213: 3971262720991459576
+    second: elephant and girraffe1_31
+  - first:
+      213: -9192350452508258263
+    second: elephant and girraffe1_32
+  - first:
+      213: 7417891442701061819
+    second: elephant and girraffe1_33
+  - first:
+      213: 4227565048475297546
+    second: elephant and girraffe1_34
+  - first:
+      213: -2627797586683812558
+    second: elephant and girraffe1_35
+  - first:
+      213: 1163432240945493171
+    second: elephant and girraffe1_36
+  - first:
+      213: 2665273941152592392
+    second: elephant and girraffe1_37
+  - first:
+      213: 7938322458291710305
+    second: elephant and girraffe1_38
+  - first:
+      213: -5846129576220694950
+    second: elephant and girraffe1_39
+  - first:
+      213: 3092817630908447262
+    second: elephant and girraffe1_40
+  - first:
+      213: -804197452369556895
+    second: elephant and girraffe1_41
+  - first:
+      213: -4869427646123087032
+    second: elephant and girraffe1_42
+  - first:
+      213: -1852786728691677483
+    second: elephant and girraffe1_43
+  - first:
+      213: -1427943746257378597
+    second: elephant and girraffe1_44
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: elephant and girraffe1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 354
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7e217a4a7863f70800000000000000
+      internalID: 9166663232806643616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elephant and girraffe1_1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 354
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a09a14c5559a4a40800000000000000
+      internalID: 5353255302678089893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elephant and girraffe1_2
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 354
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd2214e97b29f710800000000000000
+      internalID: 1727459734590729649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elephant and girraffe1_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 54
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2d8b8648ce75430800000000000000
+      internalID: 3771743266382860979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elephant and girraffe1_4
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 54
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7fc86306e416600800000000000000
+      internalID: 459734812107536352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elephant and girraffe1_5
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 54
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0cbc6c90ebf6abc0800000000000000
+      internalID: -3772050695760593907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
